@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Passionate+Software+Developer;Learning+New+Technologies;Problem+Solver;Building+Projects+🚀" />
 </p>
-# 💫 About Me:
+ 
 <br>I am a passionate software development enthusiast with a strong interest in building modern, user-friendly applications. I enjoy learning new technologies and continuously improving my skills through real-world projects.<br><br>I focus on understanding core programming concepts, problem solving, and practical development experience. My goal is to become a professional developer and contribute to meaningful and impactful projects.<br><br>I believe in consistency, creativity, and learning by doing. Every project I build helps me grow one step closer to my goal.<br>
 
 
